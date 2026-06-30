@@ -1,0 +1,6 @@
+{
+  "name": "Nam Kudil Agrofarms",
+  "description": "An interactive 3D digital experience for Nam Kudil Agrofarms India Pvt Ltd, featuring a 3D organic farm explorer, farm stay booking, and an AI-powered crop adviser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
